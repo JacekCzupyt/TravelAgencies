@@ -1,0 +1,383 @@
+
+=======================FIRST PRESENT======================
+Rating: 3.8125
+Price: 2657
+
+Day 1 in France!
+Accommodation: Timhotel Paris Place D’Italie
+Attractions:
+        Orto Botanico di Padova
+        Centro Storico
+        Catedral Primada
+
+Day 2 in France!
+Accommodation: Mermaid Station Apartments
+Attractions:
+        Custodia de Arfe
+        Parco Urbano Termale
+        Jewish Quarter
+
+Day 3 in France!
+Accommodation: Hotel Infinito
+Attractions:
+        Basilica of St. Anthony
+        Pointe de Pen-Hir
+        Orto Botanico di Padova
+
+Day 4 in France!
+Accommodation: Hotel la Perle Montparnasse
+Attractions:
+        Centro Storico
+        Catedral Primada
+        Custodia de Arfe
+
+pic_view.jpg (1920x1080)
+test_beach.jpg (1920x1080)
+
+Rating: 2.6875
+Price: 3887
+
+Day 1 in Italy!
+Accommodation: Timhotel Paris Place D’Italie
+Attractions:
+        Casco Historico
+        Custodia de Arfe
+        Monastero Di San Daniele
+
+Day 2 in Italy!
+Accommodation: Mermaid Station Apartments
+Attractions:
+        Mirador del Valle
+        Alcazar
+        Musee Memoires
+
+Day 3 in Italy!
+Accommodation: Hotel Infinito
+Attractions:
+        Castillo de San Servando
+        Palazzo della Ragione
+        Gavrinis Island
+
+Day 4 in Italy!
+Accommodation: Hotel la Perle Montparnasse
+Attractions:
+        Casco Historico
+        Custodia de Arfe
+        Monastero Di San Daniele
+
+Dello_pic_view.jpg (1920x1080)
+Dello_test_beach.jpg (1920x1080)
+Dello_wide_car.jpg (1920x1080)
+Dello_wide_city.jpg (600x600)
+
+Rating: 3.6875
+Price: 3532
+
+Day 1 in Poland!
+Accommodation: Timhotel Paris Place D’Italie
+Attractions:
+        El Pozo De Los Deseos
+        Pointe de Pen-Hir
+        Casco Historico
+
+Day 2 in Poland!
+Accommodation: Mermaid Station Apartments
+Attractions:
+        Custodia de Arfe
+        Musee Memoires
+        Alcazar
+
+Day 3 in Poland!
+Accommodation: Hotel Infinito
+Attractions:
+        Orto Botanico di Padova
+        Gavrinis Island
+        El Pozo De Los Deseos
+
+Day 4 in Poland!
+Accommodation: Hotel la Perle Montparnasse
+Attractions:
+        Pointe de Pen-Hir
+        Casco Historico
+        Custodia de Arfe
+
+attr_ćity.jpg (3840x2160)
+attr_ćity.jpg (600x600)
+final_ćar.jpg (800x600)
+
+Rating: 3.75
+Price: 1074
+
+Day 1 in Poland!
+Accommodation: The Palatine Garden Apartment
+Attractions:
+        Musee Memoires
+        Alcazar
+        Orto Botanico di Padova
+
+pić_ćity.jpg (1024x1280)
+wide_obrazećzek.jpg (1024x1280)
+
+Rating: 3.25
+Price: 909
+
+Day 1 in France!
+Accommodation: The Palatine Garden Apartment
+Attractions:
+        Parco Urbano Termale
+        Jewish Quarter
+        Basilica of St. Anthony
+
+wide_car.jpg (1920x1080)
+wide_city.jpg (600x600)
+last_window.jpg (1024x1280)
+
+
+
+=======================SECOND PRESENT======================
+Rating: 3.8125
+Price: 2657
+
+Day 1 in France!
+Accommodation: Timhotel Paris Place D’Italie
+Attractions:
+        Orto Botanico di Padova
+        Centro Storico
+        Catedral Primada
+
+Day 2 in France!
+Accommodation: Mermaid Station Apartments
+Attractions:
+        Custodia de Arfe
+        Parco Urbano Termale
+        Jewish Quarter
+
+Day 3 in France!
+Accommodation: Hotel Infinito
+Attractions:
+        Basilica of St. Anthony
+        Pointe de Pen-Hir
+        Orto Botanico di Padova
+
+Day 4 in France!
+Accommodation: Hotel la Perle Montparnasse
+Attractions:
+        Centro Storico
+        Catedral Primada
+        Custodia de Arfe
+
+pic_view.jpg (1920x1080)
+test_beach.jpg (1920x1080)
+
+Rating: 2.6875
+Price: 3887
+
+Day 1 in Italy!
+Accommodation: Timhotel Paris Place D’Italie
+Attractions:
+        Casco Historico
+        Custodia de Arfe
+        Monastero Di San Daniele
+
+Day 2 in Italy!
+Accommodation: Mermaid Station Apartments
+Attractions:
+        Mirador del Valle
+        Alcazar
+        Musee Memoires
+
+Day 3 in Italy!
+Accommodation: Hotel Infinito
+Attractions:
+        Castillo de San Servando
+        Palazzo della Ragione
+        Gavrinis Island
+
+Day 4 in Italy!
+Accommodation: Hotel la Perle Montparnasse
+Attractions:
+        Casco Historico
+        Custodia de Arfe
+        Monastero Di San Daniele
+
+Dello_pic_view.jpg (1920x1080)
+Dello_test_beach.jpg (1920x1080)
+Dello_wide_car.jpg (1920x1080)
+Dello_wide_city.jpg (600x600)
+
+Rating: 3.6875
+Price: 3532
+
+Day 1 in Poland!
+Accommodation: Timhotel Paris Place D’Italie
+Attractions:
+        El Pozo De Los Deseos
+        Pointe de Pen-Hir
+        Casco Historico
+
+Day 2 in Poland!
+Accommodation: Mermaid Station Apartments
+Attractions:
+        Custodia de Arfe
+        Musee Memoires
+        Alcazar
+
+Day 3 in Poland!
+Accommodation: Hotel Infinito
+Attractions:
+        Orto Botanico di Padova
+        Gavrinis Island
+        El Pozo De Los Deseos
+
+Day 4 in Poland!
+Accommodation: Hotel la Perle Montparnasse
+Attractions:
+        Pointe de Pen-Hir
+        Casco Historico
+        Custodia de Arfe
+
+attr_ćity.jpg (3840x2160)
+attr_ćity.jpg (600x600)
+final_ćar.jpg (800x600)
+
+This offer is expired
+
+Rating: 3.25
+Price: 909
+
+Day 1 in France!
+Accommodation: The Palatine Garden Apartment
+Attractions:
+        Parco Urbano Termale
+        Jewish Quarter
+        Basilica of St. Anthony
+
+wide_car.jpg (1920x1080)
+wide_city.jpg (600x600)
+last_window.jpg (1024x1280)
+
+
+
+=======================THIRD PRESENT======================
+Rating: 3.8125
+Price: 2657
+
+Day 1 in France!
+Accommodation: Timhotel Paris Place D’Italie
+Attractions:
+        Orto Botanico di Padova
+        Centro Storico
+        Catedral Primada
+
+Day 2 in France!
+Accommodation: Mermaid Station Apartments
+Attractions:
+        Custodia de Arfe
+        Parco Urbano Termale
+        Jewish Quarter
+
+Day 3 in France!
+Accommodation: Hotel Infinito
+Attractions:
+        Basilica of St. Anthony
+        Pointe de Pen-Hir
+        Orto Botanico di Padova
+
+Day 4 in France!
+Accommodation: Hotel la Perle Montparnasse
+Attractions:
+        Centro Storico
+        Catedral Primada
+        Custodia de Arfe
+
+pic_view.jpg (1920x1080)
+test_beach.jpg (1920x1080)
+
+Rating: 2.6875
+Price: 3887
+
+Day 1 in Italy!
+Accommodation: Timhotel Paris Place D’Italie
+Attractions:
+        Casco Historico
+        Custodia de Arfe
+        Monastero Di San Daniele
+
+Day 2 in Italy!
+Accommodation: Mermaid Station Apartments
+Attractions:
+        Mirador del Valle
+        Alcazar
+        Musee Memoires
+
+Day 3 in Italy!
+Accommodation: Hotel Infinito
+Attractions:
+        Castillo de San Servando
+        Palazzo della Ragione
+        Gavrinis Island
+
+Day 4 in Italy!
+Accommodation: Hotel la Perle Montparnasse
+Attractions:
+        Casco Historico
+        Custodia de Arfe
+        Monastero Di San Daniele
+
+Dello_pic_view.jpg (1920x1080)
+Dello_test_beach.jpg (1920x1080)
+Dello_wide_car.jpg (1920x1080)
+Dello_wide_city.jpg (600x600)
+
+Rating: 3.6875
+Price: 3532
+
+Day 1 in Poland!
+Accommodation: Timhotel Paris Place D’Italie
+Attractions:
+        El Pozo De Los Deseos
+        Pointe de Pen-Hir
+        Casco Historico
+
+Day 2 in Poland!
+Accommodation: Mermaid Station Apartments
+Attractions:
+        Custodia de Arfe
+        Musee Memoires
+        Alcazar
+
+Day 3 in Poland!
+Accommodation: Hotel Infinito
+Attractions:
+        Orto Botanico di Padova
+        Gavrinis Island
+        El Pozo De Los Deseos
+
+Day 4 in Poland!
+Accommodation: Hotel la Perle Montparnasse
+Attractions:
+        Pointe de Pen-Hir
+        Casco Historico
+        Custodia de Arfe
+
+attr_ćity.jpg (3840x2160)
+attr_ćity.jpg (600x600)
+final_ćar.jpg (800x600)
+
+This offer is expired
+
+Rating: 3.25
+Price: 909
+
+Day 1 in France!
+Accommodation: The Palatine Garden Apartment
+Attractions:
+        Parco Urbano Termale
+        Jewish Quarter
+        Basilica of St. Anthony
+
+wide_car.jpg (1920x1080)
+wide_city.jpg (600x600)
+last_window.jpg (1024x1280)
+
+                                  
